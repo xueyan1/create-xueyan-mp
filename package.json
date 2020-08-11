@@ -1,23 +1,23 @@
 {
- "name": "create-xueyan-mp",
- "version": "1.0.3",
- "description": "小程序开发模版",
- "main": "index.js",
- "scripts": {
-   "create-xueyan-mp": "node ./index.js",
-   "test": "echo \"Error: no test specified\" && exit 1"
- },
- "repository": {
-   "type": "git",
-   "url": "git+https://github.com/xueyan1/create-xueyan-mp"
- },
- "keywords": [
-   "小程序模版"
- ],
- "author": "xueyan",
- "license": "ISC",
- "bugs": {
-   "url": "https://github.com/xueyan1/create-xueyan-mp/issues"
- },
- "homepage": "https://github.com/xueyan1/create-xueyan-mp#readme"
+  "name": "create-xueyan-mp",
+  "version": "1.0.4",
+  "description": "小程序开发模版",
+  "main": "index.js",
+  "scripts": {
+    "create-xueyan-mp": "node ./index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xueyan1/create-xueyan-mp"
+  },
+  "keywords": [
+    "小程序模版"
+  ],
+  "author": "xueyan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xueyan1/create-xueyan-mp/issues"
+  },
+  "homepage": "https://github.com/xueyan1/create-xueyan-mp#readme"
 }
