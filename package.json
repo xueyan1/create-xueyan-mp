@@ -1,11 +1,11 @@
 {
   "name": "create-xueyan-mp",
-  "version": "1.0.11",
+  "version": "1.0.12",
   "description": "小程序开发模版",
   "main": "index.js",
   "bin": {
-   "create-xueyan-mp": "create-xueyan-mp.js"
- },
+    "create-xueyan-mp": "create-xueyan-mp.js"
+  },
   "scripts": {
     "create-xueyan-mp": "node ./create-xueyan-mp.js"
   },
