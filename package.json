@@ -1,25 +1,27 @@
 {
-  "name": "create-xueyan-mp",
-  "version": "1.0.16",
-  "description": "小程序开发模版",
-  "main": "index.js",
-  "bin": {
-    "create-xueyan-mp": "create-xueyan-mp.js"
-  },
-  "scripts": {
-    "start": "node ./create-xueyan-mp.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/xueyan1/create-xueyan-mp"
-  },
-  "keywords": [
-    "小程序模版"
-  ],
-  "author": "xueyan",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/xueyan1/create-xueyan-mp/issues"
-  },
-  "homepage": "https://github.com/xueyan1/create-xueyan-mp#readme"
+ "name": "create-xueyan-mp",
+ "version": "1.0.16",
+ "description": "小程序开发模版",
+ "main": "index.js",
+ "bin": {
+  "create-xueyan-mp": "bin/create-xueyan-mp.js"
+ },
+ "scripts": {
+  "test": "echo \"Error: no test specified\" && exit 1",
+  "cz": "npm-publish-bin && git add . && git status && git cz",
+  "push": "npm version patch && npm publish . && git push"
+ },
+ "repository": {
+  "type": "git",
+  "url": "git+https://github.com/xueyan1/create-xueyan-mp"
+ },
+ "keywords": [
+  "小程序模版"
+ ],
+ "author": "xueyan",
+ "license": "ISC",
+ "bugs": {
+  "url": "https://github.com/xueyan1/create-xueyan-mp/issues"
+ },
+ "homepage": "https://github.com/xueyan1/create-xueyan-mp#readme"
 }
