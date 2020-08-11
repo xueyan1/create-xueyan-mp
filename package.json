@@ -18,6 +18,9 @@
  "keywords": [
   "小程序模版"
  ],
+ "devDependencies": {
+  "npm-publish-bin": "^1.0.0"
+ },
  "files": [
   "bin/**/*"
  ],
