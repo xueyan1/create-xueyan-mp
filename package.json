@@ -18,6 +18,9 @@
  "keywords": [
   "小程序模版"
  ],
+ "files": [
+  "bin/**/*"
+],
  "author": "xueyan",
  "license": "ISC",
  "bugs": {
