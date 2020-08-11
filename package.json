@@ -4,7 +4,7 @@
   "description": "小程序开发模版",
   "main": "index.js",
   "bin": {
-    "xueyan-mp": "create-xueyan-mp.js"
+    "create-xueyan-mp": "create-xueyan-mp.js"
   },
   "scripts": {
     "start": "node ./create-xueyan-mp.js"
