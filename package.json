@@ -3,7 +3,9 @@
   "version": "1.0.11",
   "description": "小程序开发模版",
   "main": "index.js",
-  "bin": "create-xueyan-mp.js",
+  "bin": {
+   "create-xueyan-mp": "create-xueyan-mp.js"
+ },
   "scripts": {
     "create-xueyan-mp": "node ./create-xueyan-mp.js"
   },
