@@ -3,6 +3,7 @@
   "version": "1.0.5",
   "description": "小程序开发模版",
   "main": "index.js",
+  "bin":"create-xueyan-mp.js",
   "scripts": {
     "create-xueyan-mp": "node ./index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
