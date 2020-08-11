@@ -4,10 +4,10 @@
   "description": "小程序开发模版",
   "main": "index.js",
   "bin": {
-    "test": "index.js"
+    "xueyan-mp": "create-xueyan-mp.js"
   },
   "scripts": {
-    "create-xueyan-mp": "node ./create-xueyan-mp.js"
+    "start": "node ./create-xueyan-mp.js"
   },
   "repository": {
     "type": "git",
