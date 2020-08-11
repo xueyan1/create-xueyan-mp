@@ -1,6 +1,6 @@
 {
   "name": "create-xueyan-mp",
-  "version": "1.0.15",
+  "version": "1.0.16",
   "description": "小程序开发模版",
   "main": "index.js",
   "bin": {
