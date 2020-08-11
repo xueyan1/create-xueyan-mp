@@ -1,6 +1,6 @@
 {
  "name": "create-xueyan-mp",
- "version": "1.0.17",
+ "version": "1.0.18",
  "description": "小程序开发模版",
  "main": "index.js",
  "bin": {
@@ -20,7 +20,7 @@
  ],
  "files": [
   "bin/**/*"
-],
+ ],
  "author": "xueyan",
  "license": "ISC",
  "bugs": {
