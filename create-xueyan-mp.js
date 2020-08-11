@@ -1,1 +1,1 @@
-console.log("开始安装")
+console.log("start install")

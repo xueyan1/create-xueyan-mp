@@ -1,1 +1,1 @@
-console.log("开始安装src")
+console.log("start install ")
