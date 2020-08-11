@@ -1,1 +1,1 @@
-console.log("start install !")
+console.info('hello world');

@@ -5,8 +5,7 @@
   "main": "index.js",
   "bin": "create-xueyan-mp.js",
   "scripts": {
-    "create-xueyan-mp": "node ./index.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "create-xueyan-mp": "node ./create-xueyan-mp.js"
   },
   "repository": {
     "type": "git",
