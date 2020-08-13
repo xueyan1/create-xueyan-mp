@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 console.log('=========== 欢迎使用xueyan - mp ===========')
 console.log('=========== 查询inquirer用户与命令行交互的所有API ===========')
 
@@ -62,8 +63,6 @@ async function setType(type) {
    getInquirerData('Editor',allType.typeForEditor)
    break;
  }
-
-
 }
 
 main()
