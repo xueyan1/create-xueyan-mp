@@ -1,33 +1,33 @@
 {
- "name": "create-xueyan-mp",
- "version": "1.0.19",
- "description": "小程序开发模版",
- "main": "index.js",
- "bin": {
-  "create-xueyan-mp": "bin/create-xueyan-mp.js"
- },
- "scripts": {
-  "test": "echo \"Error: no test specified\" && exit 1",
-  "cz": "npm-publish-bin && git add . && git status && git cz",
-  "push": "npm version patch && npm publish . && git push"
- },
- "repository": {
-  "type": "git",
-  "url": "git+https://github.com/xueyan1/create-xueyan-mp"
- },
- "keywords": [
-  "小程序模版"
- ],
- "devDependencies": {
-  "npm-publish-bin": "^1.0.0"
- },
- "files": [
-  "bin/**/*"
- ],
- "author": "xueyan",
- "license": "ISC",
- "bugs": {
-  "url": "https://github.com/xueyan1/create-xueyan-mp/issues"
- },
- "homepage": "https://github.com/xueyan1/create-xueyan-mp#readme"
+  "name": "create-xueyan-mp",
+  "version": "1.0.19",
+  "description": "小程序开发模版",
+  "main": "index.js",
+  "bin": {
+    "create-xueyan-mp": "bin/create.js"
+  },
+  "scripts": {
+    "test": "node ./index.js"
+  },
+  "config": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xueyan1/create-xueyan-mp"
+  },
+  "keywords": [
+    "小程序模版"
+  ],
+  "devDependencies": {},
+  "author": "xueyan",
+  "contributors": [
+    "xueyan"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xueyan1/create-xueyan-mp/issues"
+  },
+  "homepage": "https://github.com/xueyan1/create-xueyan-mp#readme",
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  }
 }
